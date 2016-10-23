@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://rubicundheart.github.io
+title: Nuance Interactive
+email: amber@nuance-interactive.com
+author: rubicundheart
+description: Northern Colorado freelance designer and front-end developer
+paginate: 8
+google_analytics: 
